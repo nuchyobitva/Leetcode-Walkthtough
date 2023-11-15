@@ -4,7 +4,7 @@ In this repository i will be publishing my actual solutions of Leetcode Algorith
 
 ## Medium
 
-### [1930. Unique Length-3 Palindromic Subsequences](/medium/uniquelength3palindromicsubsequences.cpp)
+### [1930. Unique Length-3 Palindromic Subsequences](/medium/uniquelength3palindromicsubsequences/readme.md)
 
 Given a string s, return the number of unique palindromes of length three that are a subsequence of s.
 Note that even if there are multiple ways to obtain the same subsequence, it is still only counted once.
