@@ -46,4 +46,4 @@ The easiest solution is to start with an index and then compare all next element
 
 Well, if you need a faster algorithm, you can use some memory to store some data. In this variation we go 1 time through the vector, so our time complexity will be O(n).
 
-![time_effective_picture](time_effective.jpg)
+![time_effective_picture](time_effective.JPG)
