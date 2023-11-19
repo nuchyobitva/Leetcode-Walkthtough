@@ -4,7 +4,7 @@ In this repository i will be publishing my actual solutions of Leetcode Algorith
 
 ## Easy
 
-## [1. Two Sum](/easy/1.%20TwoSum/Readme.md)
+## [1. Two Sum](/easy/1TwoSum/Readme.md)
 Given an array of integers `nums` and an integer `target`, return _indices of the two numbers such that they add up to `target`_.
 
 You may assume that each input would have **_exactly_ one solution**, and you may not use the _same_ element twice.
@@ -18,6 +18,24 @@ You can return the answer in any order.
 >
 >**Explanation:** Because nums[0] + nums[1] == 9, we return [0, 1].
 
+## [9. Palindrome Number](/easy/9PalindromeNumber/Readme.md)
+Given an integer `x`, return `true` _if_ `x` _is a_ _**palindrome**_ _, and_ `false` _otherwise_.
+
+**Example 1:**
+
+>**Input:** x = 121
+>
+>**Output:** true
+>
+>**Explanation:** 121 reads as 121 from left to right and from right to left.
+
+**Example 2:**
+
+>**Input:** x = -121
+>
+>**Output:** false
+>
+>**Explanation:** From left to right, it reads -121. From right to left, it becomes 121-. Therefore it is not a palindrome.
 
 ## Medium
 
