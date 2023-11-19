@@ -18,7 +18,7 @@ You can return the answer in any order.
 >
 >**Explanation:** Because nums[0] + nums[1] == 9, we return [0, 1].
 
-## [9. Palindrome Number](/easy/9PalindromeNumber/Readme.md)
+## [9. Palindrome Number](/easy/9PalindromeNumber/readme.md)
 Given an integer `x`, return `true` _if_ `x` _is a_ _**palindrome**_ _, and_ `false` _otherwise_.
 
 **Example 1:**
