@@ -39,11 +39,11 @@ Constraints:
 
 The first method that I've thought of.
 
-![first](firstscore.jpg)
+![first](firstscore.JPG)
 
 
 ## [Final method](finalpalindrome.cpp)
 
 Well, if you need a faster algorithm, you can simplify it. 
 
-![final](finalscore.jpg)
+![final](finalscore.JPG)
